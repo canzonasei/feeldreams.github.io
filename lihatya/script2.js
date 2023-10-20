@@ -6,9 +6,9 @@ function keatas(){window.scrollTo(0, 0);}
 
 var date = new Date();
 
-var days = ["Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"];
+var days = ["Sunday", "monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-var months = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"];
+var months = ["January", "February", "March", "April", "Mey", "June", "July", "August", "September", "October", "November", "December"];
 
 var hours = date.getHours();
 
